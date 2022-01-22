@@ -17,7 +17,10 @@ More detailed analysis and experimental results are included in [[Paper]](https:
 
 ## Visual results
 
-![teaser-video](asset/teaser-video.gif)
+| |
+|:---:|
+|![teaser-video](asset/teaser-video.gif)|
+|Input / SR Result|
 
 | | | |
 |:---:|:---:|:---:|
@@ -49,9 +52,9 @@ More detailed analysis and experimental results are included in [[Paper]](https:
 @inproceedings{bai2022self,
     title = {Self-Supervised Deep Blind Video Super-Resolution},
     author = {Bai, Haoran and Pan, Jinshan},
-	journal={CoRR},
-	volume={abs/2201.07422},
-	year={2022},
-	url= {https://arxiv.org/abs/2201.07422}
+    journal={CoRR},
+    volume={abs/2201.07422},
+    year={2022},
+    url= {https://arxiv.org/abs/2201.07422}
 }
 ```

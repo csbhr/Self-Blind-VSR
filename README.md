@@ -49,7 +49,7 @@ More detailed analysis and experimental results are included in [[Paper]](https:
 
 ## Citation
 ```
-@inproceedings{bai2022self,
+@article{bai2022self,
     title = {Self-Supervised Deep Blind Video Super-Resolution},
     author = {Bai, Haoran and Pan, Jinshan},
     journal={CoRR},
